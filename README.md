@@ -35,5 +35,5 @@ For easy development, this repository also includes a Docker container with Amaz
 
 ## More information
 
-Check out <https://www.narakeet.com/docs/automating/rest/> for more information on the Narakeet Markdown to Video API. 
+Check out <https://www.narakeet.com/docs/automating/text-to-speech-api/> for more information on the Narakeet text to speech API. 
 
